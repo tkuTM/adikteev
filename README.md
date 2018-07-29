@@ -34,4 +34,4 @@ Start jupyter
 jupyter notebook
 ```
 
-Open the notebook `OrnelaXhelili.ipynb`.
+Open the notebook `OrnelaXhelili.ipynb`. This notebook and the data `campaigns.csv` need to be in the same folder.
